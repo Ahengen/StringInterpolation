@@ -1,0 +1,15 @@
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\String_Interpolation.exe
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\String_Interpolation.deps.json
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\String_Interpolation.runtimeconfig.json
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\String_Interpolation.dll
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\ref\String_Interpolation.dll
+C:\Users\ahengen\VSCode\String_Interpolation\bin\Debug\net6.0\String_Interpolation.pdb
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.csproj.AssemblyReference.cache
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.AssemblyInfoInputs.cache
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.AssemblyInfo.cs
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.dll
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\ref\String_Interpolation.dll
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.pdb
+C:\Users\ahengen\VSCode\String_Interpolation\obj\Debug\net6.0\String_Interpolation.genruntimeconfig.cache
